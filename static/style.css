@@ -143,13 +143,14 @@ section__style */
 /* work inquiry */
 
 .work__bg{
-    width: 800px;
+    width: 850px;
     height: 200px;
     margin: auto;
     background: url("../img/Group_33094_1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 25px;
 }
 .in{
     float: left;
