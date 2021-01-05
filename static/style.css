@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Oswald', sans-serif;
+}
+
+p,button,strong,a{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Navbar__style */
+
+nav{
+    height: 70px;
+
+}
+h1{
+    font-size: 50px;
+}
+section{
+height: 500px;
+margin-bottom: 280px;
+}
+.website__border{
+    width: 90%;
+    margin: auto;
+}
+.navbar__menu ul{
+    width: auto;
+    float: right;
+    padding: 10px;
+}
+.navbar__menu li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+.navbar__menu a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+/* 
+section__style */
+
+
+
+.common__content{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.common__content img{
+    width: 100%;
+}
+.common__color{
+    color: #ff5252;
+}
+.common__content p{
+    margin-top: 15px;
+    margin-bottom: 35px;
+    font-weight: 400;
+}
+.common__button{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(180deg,#ff7575,#f64040);
+    padding: 20px 25px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.top__padding{
+    margin-top: 40px;
+}
