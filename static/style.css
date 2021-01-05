@@ -110,5 +110,62 @@ section__style */
 }
 .last__header{
     background: #f8f8f8;
-    height: 900px;
+    height: 770px;
+}
+
+
+
+
+
+/* skill section */
+
+.skill__header{
+    text-align: center;
+}
+.skill__box{
+    background-color: white;
+    width: 22%;
+    float: left;
+    border-radius: 12px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 20px#ddd;
+    margin-left: 20px;
+    text-align: center;
+}
+.Tools{
+    padding-top:200px;
+}
+
+
+/* work inquiry */
+
+.work__bg{
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    background: url("../img/Group_33094_1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.in{
+    float: left;
+    margin-top: 60px;
+    margin-left: 50px;
+    color: white;
+}
+.chat{
+    float: left;
+    margin-top: 90px;
+    margin-left: 240px;
+    color: white;
+}
+
+.Lets__chat{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(180deg,#ff7575,#f64040);
+    padding: 20px 25px;
+    border-radius: 8px;
+    font-weight: bold;
 }
