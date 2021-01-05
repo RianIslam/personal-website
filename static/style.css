@@ -79,3 +79,36 @@ section__style */
 .top__padding{
     margin-top: 40px;
 }
+
+/* project work */
+
+
+.heading__last h1{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    text-align: center;
+}
+
+.project__box{
+    background-color: white;
+    width: 27%;
+    float: left;
+    border-radius: 12px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 20px#ddd;
+    margin-left: 20px;
+}
+.project__box img{
+    width: 100%;
+}
+.project__work{
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.project__box h2,p{
+    padding-bottom: 20px;
+}
+.last__header{
+    background: #f8f8f8;
+    height: 900px;
+}
