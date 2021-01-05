@@ -63,7 +63,7 @@ section__style */
     width: 100%;
 }
 .common__color{
-    color: #ff5252;
+    color: #ffcc24;
 }
 .common__content p{
     margin-top: 15px;
@@ -73,7 +73,7 @@ section__style */
 .common__button{
     text-decoration: none;
     color: white;
-    background: linear-gradient(180deg,#ff7575,#f64040);
+    background: linear-gradient(180deg,#fdff75,#f64040);
     padding: 20px 25px;
     border-radius: 8px;
     font-weight: bold;
@@ -168,7 +168,7 @@ section__style */
 .Lets__chat{
     text-decoration: none;
     color: white;
-    background: linear-gradient(180deg,#ff7575,#f64040);
+    background: linear-gradient(180deg,#fdff75,#f64040);
     padding: 20px 25px;
     border-radius: 8px;
     font-weight: bold;
